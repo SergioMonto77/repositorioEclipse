@@ -24,7 +24,6 @@ public class Suma {
 				resultado= a+b;
 				System.out.println("El resultado es::: " + resultado);
 				System.out.println("Linea insignificante");
-				System.out.println("Linea 2 insignificante");
 				
 			}
 			else {
