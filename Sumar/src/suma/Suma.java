@@ -8,6 +8,8 @@ public class Suma {
 		// TODO Esbozo de método generado automáticamente
 		suma();
 	}
+	
+	//estoy generando un conflicto en rama de pruebas
 
 	public static void suma() {
 		int a,b, resultado;
