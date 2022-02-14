@@ -9,7 +9,7 @@ public class Suma {
 		suma();
 	}
 	
-	//estoy generando un conflicto en rama de pruebas
+	//estoy generando un conflicto en rama master
 
 	public static void suma() {
 		int a,b, resultado;
