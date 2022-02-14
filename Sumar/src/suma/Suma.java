@@ -9,7 +9,11 @@ public class Suma {
 		suma();
 	}
 	
+<<<<<<< HEAD
 	//estoy generando un conflicto en rama master
+=======
+	//estoy generando un conflicto en rama de pruebas2
+>>>>>>> refs/heads/rama_pruebas
 
 	public static void suma() {
 		int a,b, resultado;
